@@ -19,13 +19,5 @@ Check out SSA on [Instagram](https://www.instagram.com/ssaucsd) and [YouTube](ht
 Here's a highlight from our concert in May 2024:
 
 <div class="video-container">
-    <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube-nocookie.com/watch?v=BP3JlLMf71c"
-        title="SSA EFA 2024"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BP3JlLMf71c?si=1eIZJ4w4TJMlx5si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
