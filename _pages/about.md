@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome! 👋
+### Welcome!
 
 I'm Laura, a senior at UC San Diego studying Cognitive Science with a specialization in Machine Learning & Neural Computation, and a minor in Mathematics.
 

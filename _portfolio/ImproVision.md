@@ -1,5 +1,5 @@
 ---
-title: "Project ImproVision"
+title: "🎶 Project ImproVision"
 excerpt: "Developing human-robot interaction systems for musical settings, focusing on nonverbal communication between musicians and robotic conducting agents."
 #<br/><img src='/images/500x300.png'>
 collection: portfolio
@@ -25,7 +25,7 @@ Project ImproVision investigates the future of human-robot interaction in musica
 - Check out our presentation from the ArtsIT Conference [here](https://drive.google.com/file/d/1IUlFXF93GqRicorRfSUL2slx2Da_3QsB/view?usp=sharing)!
 
 ## Publications
-1. "Creativity and Visual Communication from Machine to Musician: Sharing a Score through a Robotic Camera" - EAI ArtsIT Conference 2024
+1. "Creativity and Visual Communication from Machine to Musician: Sharing a Score through a Robotic Camera" - [EAI ArtsIT Conference 2024](https://artsit.eai-conferences.org/2024/)
 2. "ImproVision Equilibrium: Towards Multimodal Musical Human-Machine Interaction" (Under review)
 
 ## Future Directions
