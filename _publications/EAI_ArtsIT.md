@@ -1,7 +1,7 @@
 ---
 title: "Creativity and Visual Communication from Machine to Musician: Sharing a Score through a Robotic Camera"
 collection: publications
-#category: conferences #or manuscripts, for journal articles
+category: conferences #or manuscripts, for journal articles
 permalink: /publication/2024-creativity-robotic
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10-24
