@@ -22,7 +22,7 @@ Here's a highlight from our concert in May 2024:
     <iframe
         width="560"
         height="315"
-        src="https://youtu.be/BP3JlLMf71c?si=ucyYVP2XD282MjjN"
+        src="https://www.youtube-nocookie.com/watch?v=BP3JlLMf71c"
         title="SSA EFA 2024"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
