@@ -19,4 +19,4 @@ I graduated with a B.S. in Cognitive Science/Machine Learning and a minor in Mat
 
 - At the [Laboratory for Intelligent and Safe Automobiles](https://cvrr.ucsd.edu/) with Dr. Mohan Trivedi, I contributed to research on driver behavior analysis using multi-modal machine learning approaches.
 
-I’m always eager to learn from others working at the intersection of people and technology -- so feel free to reach out!
+I’m always eager to learn from others working at the intersection of people and technology -- so feel free to reach out! 🤖 🧠
