@@ -25,7 +25,7 @@ author:
   name             : "Laura Fleig"
   pronouns         : "she/her"  
   bio              : "Computer Science PhD student at Johns Hopkins"
-  location         : "Baltimore, MD"
+  #location         : "Baltimore, MD"
   #employer         : "UC San Diego"
   uri              : # URL
   email            : "laurafleig@gmail.com" 

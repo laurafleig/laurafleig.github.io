@@ -9,9 +9,9 @@ redirect_from:
 
 ### Welcome!
 
-I'm Laura, a first-year PhD student in Computer Science at Johns Hopkins University. I am co-advised by [Mathias Unberath](https://www.arcade.cs.jhu.edu/) and [Chien-Ming Huang](https://intuitivecomputing.github.io/index.html). My research focuses on human-robot interaction and human-centered AI, particularly in healthcare settings.
+I'm Laura, a first-year PhD student in Computer Science at Johns Hopkins University. I am co-advised by [Mathias Unberath](https://www.arcade.cs.jhu.edu/) and [Chien-Ming Huang](https://intuitivecomputing.github.io/index.html). I'm grateful to be supported by the [Percy Pierre Fellowship](https://engineering.jhu.edu/news/percy-pierre-doctoral-fellowship/) at the Whiting School of Engineering. My research focuses on human-robot interaction and human-centered AI, particularly in healthcare settings.
 
-I graduated with a B.S. in Cognitive Science/Machine Learning and a minor in Mathematics from UC San Diego in June 2025. At UCSD, I worked on several exciting research projects, some of which I continue to support through ongoing publications:
+In June 2025, I graduated with a B.S. in Cognitive Science/Machine Learning and a minor in Mathematics from UC San Diego. At UCSD, I worked on several exciting research projects, some of which I continue to support through ongoing publications:
 
 - At the [Natural Computation Lab](https://pages.ucsd.edu/~desa/) with Dr. Virginia de Sa, I completed my honors thesis on integrating Facial Expression Recognition with Large Language Models to create more emotionally aware educational AI systems.
 
