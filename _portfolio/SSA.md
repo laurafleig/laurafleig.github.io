@@ -7,12 +7,12 @@ collection: portfolio
 I've been part of the Symphonic Student Association (SSA) since my freshman year of college!
 
 ## Leadership Role
-As President (2024-Present), I:
+As President (2024-2025), I:
 - Manage a 19-member board through weekly meetings
 - Coordinate with UCSD's music department and other organizations
 - Organize major events including annual concerts at UCSD's [Epstein Family Amphitheater](https://amphitheater.ucsd.edu/) and the [Che Cafe](https://www.instagram.com/thechecafe/?hl=en)
 
-Before this, I served as Audio/Video Chair from 2022-2021.
+Before this, I served as Audio/Video Chair from 2022-2024.
 
 Check out SSA on [Instagram](https://www.instagram.com/ssaucsd) and [YouTube](https://www.youtube.com/@symphonicstudentassociatio8977).
 

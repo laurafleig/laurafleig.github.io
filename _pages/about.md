@@ -9,14 +9,12 @@ redirect_from:
 
 ### Welcome!
 
-I'm Laura, a senior at UC San Diego studying Cognitive Science with a specialization in Machine Learning & Neural Computation, and a minor in Mathematics.
+I'm Laura, a first-year PhD student in Computer Science at Johns Hopkins University. I am co-advised by [Mathias Unberath](https://www.arcade.cs.jhu.edu/) and [Chien-Ming Huang](https://intuitivecomputing.github.io/index.html). My work focuses on human-robot interaction and human-centered AI, particularly in healthcare settings.
 
-I'm passionate about developing AI systems that can better understand and interact with humans, especially in educational and creative settings. Currently, I'm working on several exciting research projects:
+I graduated with a B.S. in Cognitive Science/Machine Learning and a minor in Mathematics from UC San Diego in June 2025. At UCSD, I worked on several exciting research projects:
 
-- At the [Natural Computation Lab](https://pages.ucsd.edu/~desa/) with Dr. Virginia de Sa, I'm conducting my honors thesis research on integrating Facial Expression Recognition with Large Language Models to create more emotionally aware educational AI systems.
+- At the [Natural Computation Lab](https://pages.ucsd.edu/~desa/) with Dr. Virginia de Sa, I completed my honors thesis on integrating Facial Expression Recognition with Large Language Models to create more emotionally aware educational AI systems.
 
-- I'm exploring human-robot interaction in musical settings with [Dr. Shlomo Dubnov](http://dub.ucsd.edu/) and [Dr. Ross Greer](https://www.rossgreer.com/), focusing on how robots can understand and respond to musicians' nonverbal cues.
+- I explored human-robot interaction in musical settings with [Dr. Shlomo Dubnov](http://dub.ucsd.edu/) and [Dr. Ross Greer](https://www.rossgreer.com/), focusing on how robots can understand and respond to musicians' nonverbal cues.
 
-- At the [Laboratory for Intelligent and Safe Automobiles](https://cvrr.ucsd.edu/) with Dr. Mohan Trivedi, I contribute to research on driver behavior analysis using multi-modal machine learning approaches.
-
-I'm fluent in English and German, and in my free time, I serve as President of the Symphonic Student Association at UCSD.
+- At the [Laboratory for Intelligent and Safe Automobiles](https://cvrr.ucsd.edu/) with Dr. Mohan Trivedi, I contributed to research on driver behavior analysis using multi-modal machine learning approaches.

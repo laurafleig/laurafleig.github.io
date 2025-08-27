@@ -24,9 +24,9 @@ author:
   avatar           : "Laura_Fleig_headshot.jpg"
   name             : "Laura Fleig"
   pronouns         : "she/her"  
-  bio              : "4th Year Cognitive Science Major at UCSD"
-  location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  bio              : "Computer Science PhD student at Johns Hopkins"
+  location         : "Baltimore, MD"
+  #employer         : "UC San Diego"
   uri              : # URL
   email            : "laurafleig@gmail.com" 
 
